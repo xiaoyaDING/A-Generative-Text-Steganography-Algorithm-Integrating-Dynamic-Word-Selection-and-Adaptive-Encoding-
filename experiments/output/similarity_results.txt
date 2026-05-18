@@ -1,0 +1,51 @@
+文本相似度实验结果
+==================================================
+
+测试 1:
+提示词: The quick brown fox
+自然文本: The quick brown fox it you that that it it it that it it it it that it it it it that it that it that it it it it it that it that
+隐写文本: The: that it it it that it it it that that the it it that it that it it it that that it it that it it it that it that that that it it it that it that that that it it that that it that it that it it it that that it it that it it it that it that that that it it it that it that that that it it that that it that it that it it it that that it it that it it it that it that that that it it it that it that that that it it that that it that it that it it it that that it it that it it it that it that
+BLEU: 0.0000
+------------------------------
+测试 2:
+提示词: Deep learning is
+自然文本: Deep learning is it it that that that that it that that it it it you it it it it that that it that that it there that it that it that that
+隐写文本: Deep It that it it it that it that it it it that that it that it that it it it that that it it that it it it that it that that that it it it that it that that that it it that that it that it that it it it that that it it that it it it that it that that that it it it that it that those that it it that the it that it that it it it that that I it that it it it that it that that that it it it that it that that you it it that that it that it that it it it that that it it that it it it that it that
+BLEU: 0.0000
+------------------------------
+测试 3:
+提示词: Natural language processing
+自然文本: Natural language processing it that that that that it that that it it that that that it that it that that that that that that that that that it that it it it
+隐写文本: Natural The that it it it that it it it that that it that it that there that it it it that that it it that it I it that it that that that it it it that it that that that it it that that it that it that it it it that that it it that it it I that it that that that it it it that it that that that it it that that it that it that it it it that that it it that it it it that it that that that it it it that it that that that it it that that it that it that it it it that that it there that it it it that it that
+BLEU: 0.0000
+------------------------------
+测试 4:
+提示词: Artificial intelligence
+自然文本: Artificial intelligence. It that it it it that that it that that it that that it that that that it that that that that that it it that that it it
+隐写文本: Art. that it it that that that that that it it that that it that it that it it it that that it it that it it it that it that that that it it it that it that that that it it that that it that it that it it it that that it it that it it it that it that that that it it it that it that that that it it that that it that it that it it it that that it it that it it it that it that that that it it it that it that that that it it that that it that it that it it it that that it it that it it it that it that
+BLEU: 0.0000
+------------------------------
+测试 5:
+提示词: The weather today
+自然文本: The weather today it it it it it that it it that that it it it it it that it it that that that it it that that it it that that it
+隐写文本: The that it it that it I it it it that that it that I that it that it it it that that it it you it it it that it that that that it it it that it that that that it it that the it that it that it it it that that it it that it it it that it that that that it it it that it that that that it it that that it that it that there it it that that it it that it it it that it that that that it it it that it just that that it it that that it that it that it it it that that it it that it it it that it that
+BLEU: 0.0000
+------------------------------
+测试 6:
+提示词: Machine learning
+自然文本: Machine learning that that that that that it it that that it that that that that that that it that that that that that that that that that that that it that
+隐写文本: Machine A it that that that it that that that it it that that it that it that it it it that that it it that it it it that it that you that it it it that it that that that it it that that it that it that it it it that that it it that it it it that it that that that it what it that it that that that it it that that it that it that it this it that that there it that it it it that it that that that it it it that it that that that it it that that it that it that it it it that that it it that it it it that it that
+BLEU: 0.0000
+------------------------------
+测试 7:
+提示词: Computer science
+自然文本: Computer science that it that it that that that that that that that that it it it that that that it that it it that it it that that that it that
+隐写文本: Computer. it that that that it that that that it it that that it that it that it it it that you it it that it it it that I that that that it this it that I that that that it it that you it that it that it it it that that it it that it it it that it that that that it it it that it that that that it it that that it that it that it it I that that it it that it it it that it that that that it it it that it that that that it it that that it that it that it it it that that it it that it it it that it that
+BLEU: 0.0000
+------------------------------
+测试 8:
+提示词: Data analysis
+自然文本: Data analysis with that there it it it it that it it that it I it that it that it there that that it it that that it it that it it
+隐写文本: Data. If the that that it that that that it it that that there that it that it it it that that it it that it it it that it that that that it it it that it that you that it there that that it that it that it it it that that it it that it it it that it that that that it it it that it that that that it it that that it that it that it it it that that it it that it it it that it the that that it it it that it that that that it it that that it that it so it it it that that it it that it it it you it that
+BLEU: 0.0000
+------------------------------
